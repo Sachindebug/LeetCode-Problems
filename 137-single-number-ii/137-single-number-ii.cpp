@@ -12,12 +12,12 @@ public:
                 }
             }
         }
-        long long int ans=0;
+        int ans=0;
         for(int i=0;i<32;i++)
         {
             if(bits[i]%3!=0 && bits[i]!=0)
             {
-                ans+=pow(2,i);
+                ans=ans|(1<<i);
             }
         }
         return ans;
