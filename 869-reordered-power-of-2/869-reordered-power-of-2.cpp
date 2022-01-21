@@ -10,7 +10,7 @@ public:
         }
         vector<int> res=allpermutation(arr);
         
-        cout<<endl;
+        
         for(int i=0;i<res.size();i++)
         {
             if(floor(log2(res[i]))==ceil(log2(res[i]))) return true;
