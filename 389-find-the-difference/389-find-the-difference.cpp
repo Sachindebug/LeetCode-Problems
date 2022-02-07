@@ -1,19 +1,15 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        unordered_map<char,int> ump;
-        for(auto x:t)
+        char res=0;
+        for(int i=0;i<s.length();i++)
         {
-            ump[x]++;
+            res=res^s[i];
         }
-        for(auto x:s)
+        for(int i=0;i<t.length();i++)
         {
-            ump[x]--;
+            res=res^t[i];
         }
-        for(auto x:ump)
-        {
-            if(x.second>0) return x.first;
-        }
-        return t[0];
+        return res;
     }
 };
