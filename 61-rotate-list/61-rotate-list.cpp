@@ -19,10 +19,11 @@ public:
             p=p->next;
             n++;
         }
-        if(n==k || k==0) return head;
-        if(k>=n && k%n==0) return head;
+        
         k=k%n;
         n-=k;
+        if(k==0) return head;
+
         
         
         ListNode *list1=head;
