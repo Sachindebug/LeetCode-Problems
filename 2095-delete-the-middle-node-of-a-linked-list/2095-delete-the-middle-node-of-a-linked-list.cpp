@@ -19,10 +19,8 @@ public:
         }
         ListNode* p=head;
         ListNode* q=head;
-        ListNode *temp;
         while(q->next && q->next->next)
         {
-            temp=q;
             p=p->next;
             q=q->next->next;
         }
