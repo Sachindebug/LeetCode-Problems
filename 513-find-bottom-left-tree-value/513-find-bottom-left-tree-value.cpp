@@ -18,12 +18,12 @@ public:
         while(!q.empty())
         {
             int n=q.size();
-            
+            res=q.front()->val;
             for(int i=0;i<n;i++)
             {
                 TreeNode* temp=q.front();
                 q.pop();
-                if(i==0) res=temp->val;
+                
                 if(temp->left) q.push(temp->left);
                 if(temp->right) q.push(temp->right);
              }
