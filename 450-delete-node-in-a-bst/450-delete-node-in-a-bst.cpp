@@ -17,30 +17,16 @@ public:
        {
            return helper(root);
        }
-       TreeNode *curr=root;
-        while(root!=nullptr)
-        {
-            if(root->val>key)
-            {
-                if(root->left!=nullptr && root->left->val==key)
-                {
-                    root->left=helper(root->left);
-                    break;
-                }
-                else root=root->left;
-            }
-            else
-            {
-                if(root->right!=nullptr && root->right->val==key)
-                {
-                    root->right=helper(root->right);
-                    break;
-                }
-                else root=root->right;
-                
-            }
-        }
-        return curr;
+      if(root->val>key)
+      {
+          root->left=deleteNode(root->left,key);      
+      }
+      else
+      {
+          root->right=deleteNode(root->right,key);      
+     
+      }
+      return root;
     }
     TreeNode* helper(TreeNode* root)
     {
