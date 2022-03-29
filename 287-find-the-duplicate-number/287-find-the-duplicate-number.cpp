@@ -1,7 +1,7 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& arr) {
-       int n = arr.size();
+        int n = arr.size();
         for(int i=0;i<n;i++)
         {
             if(arr[i]==i+1) continue;
