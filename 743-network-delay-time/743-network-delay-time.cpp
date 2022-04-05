@@ -25,11 +25,11 @@ public:
                 int currEdge=x.first;
                 if(nodeDist+currEdge<dis[nbr])
                 {
-                    auto f=s.find({dis[nbr],nbr});
-                    if(f!=s.end())
-                    {
-                        s.erase(f);
-                    }
+                    // auto f=s.find({dis[nbr],nbr});
+                    // if(f!=s.end())
+                    // {
+                    //     s.erase(f);
+                    // }
                     dis[nbr]=nodeDist+currEdge;
                     s.insert(make_pair(dis[nbr],nbr));
                 }
