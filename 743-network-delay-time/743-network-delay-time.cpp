@@ -38,7 +38,6 @@ public:
         int res=INT_MIN;
         for(int i=1;i<n+1;i++)
         {
-            cout<<dis[i]<<" ";
             res=max(dis[i],res);
         }
         return res==INT_MAX?-1:res;
