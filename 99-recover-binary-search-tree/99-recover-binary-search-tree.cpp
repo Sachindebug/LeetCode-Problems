@@ -50,7 +50,7 @@ public:
                  break;
             }
         }
-        cout<<a<<" "<<b<<endl;
+        
         curr=root;
         while(1)
         {
