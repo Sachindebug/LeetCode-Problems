@@ -1,27 +1,14 @@
 class Solution {
 public:
-    int maxProfit(vector<int>& prices) {
-        vector<int> res(prices.size(),0);
-        int n=prices.size();
-        int mx=-1;
-        for(int i=n-1;i>=0;i--)
+    int maxProfit(vector<int>& arr) {
+        int minele=INT_MAX;
+        int res=INT_MIN;
+        int n=arr.size();
+        for(int i=0;i<n;i++)
         {
-            res[i]=mx;
-            if(prices[i]>mx)
-            {
-                mx=prices[i];
-            }
+            minele=min(minele,arr[i]);
+            res=max(res,arr[i]-minele);
         }
-        mx=res[0]-prices[0];
-        for(int i=1;i<n;i++)
-        {
-            if((res[i]-prices[i])>mx)
-            {
-                mx=(res[i]-prices[i]);
-            }
-        }
-        return mx>0?mx:0;
-        
-        
+        return res;
     }
 };
