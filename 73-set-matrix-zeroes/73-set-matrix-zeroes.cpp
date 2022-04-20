@@ -1,32 +1,53 @@
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
-        int R = matrix.size();
-        int C = matrix[0].size();
-        set<int> rows ;
-        set<int> cols ;
-        // We mark the rows and columns that are to be made zero
-        for (int i = 0; i < R; i++) 
+        int m=matrix.size();
+        int n=matrix[0].size();
+        bool row=false;
+        bool col=false;
+        for(int i=0;i<n;i++)
         {
-          for (int j = 0; j < C; j++) 
-          {
-            if (matrix[i][j] == 0) 
-            {
-                rows.insert(i);
-                cols.insert(j);
-            }
-          }
+            if(matrix[0][i]==0) row=true;
         }
-        // Iterate over the array once again and using the rows and cols sets, update the elements.
-        for (int i = 0; i < R; i++) 
+        for(int j=0;j<m;j++)
         {
-          for (int j = 0; j < C; j++) 
-          {
-            if (rows.count(i) || cols.count(j)) 
-            {
-              matrix[i][j] = 0;
-            }
-          }
+            if(matrix[j][0]==0) col=true;
         }
+        for(int i=1;i<m;i++)
+        {
+            for(int j=1;j<n;j++)
+            {
+                if(matrix[i][j]==0)
+                {
+                    matrix[i][0]=0;
+                    matrix[0][j]=0;
+                }
+            }
+        }
+        for(int i=1;i<m;i++)
+        {
+            for(int j=1;j<n;j++)
+            {
+                if(matrix[i][0]==0 || matrix[0][j]==0)
+                {
+                    matrix[i][j]=0;
+                }
+            }
+        }
+        if(row)
+        {
+            for(int i=0;i<n;i++)
+            {
+                matrix[0][i]=0;
+            }
+        }
+        if(col)
+        {
+            for(int i=0;i<m;i++)
+            {
+                matrix[i][0]=0;
+            }
+        }
+        
     }
 };
