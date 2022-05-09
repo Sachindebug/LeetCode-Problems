@@ -23,14 +23,7 @@ public:
                 
             }
         }
-        // for(int i=0;i<n;i++)
-        // {
-        //     for(int j=0;j<m;j++)
-        //     {
-        //         cout<<res[i][j]<<" ";
-        //     }
-        //     cout<<endl;
-        // }
+      
         return res[n-1][m-1];
     }
 };
