@@ -1,19 +1,13 @@
 class Solution {
 public:
-    int divide(int dd, int ds) {
-        
-        long long int dividend=dd;
-        long long int divisor=ds;
-        if (dividend == INT_MIN && divisor == -1) {
-            return INT_MAX;
+    int divide(int A, int B) {
+        if (A == INT_MIN && B == -1) return INT_MAX;
+        long long int a = abs(A), b = abs(B), res = 0, x = 0;
+        while (a - b >= 0) {
+            for (x = 0; a - (b << x << 1) >= 0; x++);
+            res += 1 << x;
+            a -= b << x;
         }
-        bool diend=false;
-        bool divi=false;
-        if(dividend<0) {diend=true; dividend*=-1;}
-        if(divisor<0) {divi=true; divisor*=-1;}
-        long long int x=dividend/divisor;
-        if(diend && divi) return x;
-        if(diend || divi) return -x;
-        return x;
+        return (A > 0) == (B > 0) ? res : -res;
     }
 };
