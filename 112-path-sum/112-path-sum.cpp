@@ -13,17 +13,33 @@ class Solution {
 public:
     bool hasPathSum(TreeNode* root, int targetSum) {
         if(!root) return false;
-        if(root->left==nullptr && root->right==nullptr)
+        queue<TreeNode*> q;
+        q.push(root);
+        while(!q.empty())
         {
-            if(root->val==targetSum)
+            int n=q.size();
+            TreeNode* temp=q.front();
+            int x=temp->val;
+            
+            for(int i=0;i<n;i++)
             {
-                return true;
+                temp=q.front();
+                q.pop();
+                x=temp->val;
+                if(!temp->left && !temp->right && x==targetSum) return true;
+                if(temp->left)
+                {
+                    temp->left->val+=x;
+                    q.push(temp->left);
+                }
+                if(temp->right)
+                {
+                    temp->right->val+=x;
+                    q.push(temp->right);
+                }
             }
-            return false;
         }
-        bool l=hasPathSum(root->left,targetSum-(root->val));
-        bool r=hasPathSum(root->right,targetSum-(root->val));
-        return l||r;
+        return false;
 
     }
 };
