@@ -4,19 +4,22 @@ public:
         int len=0;
         int l=0,r=0;
         int n=s.length();
-        set<int> st;
+        map<int,int> ump;
         while(r<n)
         {
-            if(st.find(s[r])==st.end())
+            if(ump.find(s[r])==ump.end())
             {
                 len=max(r-l+1,len);
-                st.insert(s[r]);
+                ump[s[r]]=r;
                 r++;
             }
             else
             {
-                st.erase(s[l]);
-                l++;
+                l=max(l,ump[s[r]]+1);
+                ump[s[r]]=r;
+                len=max(r-l+1,len);
+                r++;
+
             }
         }
         return len;
