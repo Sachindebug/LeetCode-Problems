@@ -1,33 +1,20 @@
 class Solution {
 public:
+    void findCombination(vector<vector<int>> &res, vector<int> temp, int index, int n, int k){
+        if(temp.size() == k){
+            res.push_back(temp);
+            return;
+        }
+        for(int itr = index; itr < n; itr++){
+            temp.push_back(itr+1);
+            findCombination(res, temp, itr+1, n, k);
+            temp.pop_back();
+        }
+    }
+    
     vector<vector<int>> combine(int n, int k) {
         vector<vector<int>> res;
-        vector<int> arr(n);
-        for(int i=0;i<n;i++)
-        {
-            arr[i]=i+1;
-        }
-        res=recurse(arr,0);
-        vector<vector<int>> ans;
-        for(int i=0;i<res.size();i++)
-        {
-            if(res[i].size()==k) ans.push_back(res[i]);
-        }
-        return ans;
-    }
-    vector<vector<int>> recurse(vector<int> &arr,int idx)
-    {
-        if(idx==arr.size()) return {{}};
-        vector<vector<int>> prev=recurse(arr,idx+1);
-        vector<vector<int>> res;
-        int x=arr[idx];
-        for(int i=0;i<prev.size();i++)
-        {
-            vector<int> temp=prev[i];
-            res.push_back(temp);
-            temp.insert(temp.begin(),x);
-            res.push_back(temp);
-        }
+        findCombination(res, vector<int>(), 0, n, k);
         return res;
     }
 };
