@@ -1,5 +1,5 @@
 # Largest BST
-## Medium 
+##  Medium 
 <div class="problem-statement">
                 <p></p><p><span style="font-size:18px">Given a binary tree. Find the size of its largest subtree that is a Binary Search Tree.<br>
 <strong>Note: </strong>Here Size is equal to the number of nodes in the subtree.</span></p>
