@@ -101,34 +101,38 @@ struct Node {
 
 class Solution{
     public:
-    /*You are required to complete this method */
-    // Return the size of the largest sub-tree which is also a BST
-     int findSize(Node* root){
-        if(!root){
-            return 0;
+    bool isValidBST(Node* root) {
+       if(root==nullptr) return true;
+       stack<Node *> s;
+    
+       Node *prev=NULL;
+        while(root || !s.empty())
+        {
+            while(root)
+            {
+                s.push(root);
+                root=root->left;
+            }
+            root=s.top();
+            s.pop();
+            if(prev && root->data <= prev->data) return false;
+            prev=root;
+            root=root->right;
         }
-        return findSize(root->left)+findSize(root->right)+1;
+        return true;
+    }
+    int count(Node *root)
+    {
+        if(!isValidBST(root)) return 0;
+        if(root==nullptr) return 0;
+        return 1+count(root->left)+count(root->right);
     }
     int largestBst(Node *root)
     {
     	//Your code here
-    	if(!root){
-    	    return 0;
-    	}
-    	if (isBST(root,INT_MAX,INT_MIN)){
-    	    return findSize(root);
-    	}
-    	return max(largestBst(root->left),largestBst(root->right));
-    }
-    bool isBST(Node* root,int mx,int mn){
-        if(!root){
-            return true;
-        }
-        
-        if(root->data >= mx || root->data <=mn){
-            return false;
-        }
-        return  isBST(root->left,root->data,mn) && isBST(root->right, mx, root->data);
+    	if(!root) return 0;
+    	return max({count(root),largestBst(root->left),largestBst(root->right)});
+    	
     }
 };
 
