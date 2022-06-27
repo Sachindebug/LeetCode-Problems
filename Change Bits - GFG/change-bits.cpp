@@ -12,14 +12,8 @@ class Solution {
     vector<int> changeBits(int N) {
         // code here
         int x=log2(N)+1;
-        
-        int res=1;
-        while(x--)
-        {
-            res=(res<<1);
-        }
-        
-        return {res-N-1,res-1};
+        int val=(1<<x)-1;
+        return {val-N,val};
     }
 };
 
