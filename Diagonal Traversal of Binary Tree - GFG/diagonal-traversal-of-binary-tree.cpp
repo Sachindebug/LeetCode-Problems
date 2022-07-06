@@ -121,24 +121,18 @@ struct Node
 }; */
 
 
-void travel(Node* node, int d, map<int, vector<int>>& mp) {
-    if(node == nullptr) return;
-    
-    travel(node->left, d+1, mp);
-    mp[d].push_back(node->data);
-    travel(node->right, d, mp);
-}
 
 vector<int> diagonal(Node *root)
 {
     vector<int> ans;
-    map<int, vector<int>> mp;
-    
-    travel(root, 0, mp);
-    
-    for(auto it : mp) {
-        ans.insert(ans.end(), it.second.begin(), it.second.end());
-    }
-    
-    return ans;
+   queue<Node*> q; q.push(root);
+   while (!q.empty()) {
+       Node *node = q.front(); q.pop();
+       while (node) {
+           ans.push_back(node->data);
+           q.push(node->left);
+           node = node->right;
+       }
+   }
+   return ans;
 }
