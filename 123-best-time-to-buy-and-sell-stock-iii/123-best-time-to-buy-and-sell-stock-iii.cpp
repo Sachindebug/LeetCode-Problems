@@ -14,7 +14,8 @@ public:
         {
             if(c<2)
             {
-                return dp[idx][b][c]=max(-arr[idx]+recurse(arr,c+1,idx+1,!b,dp),recurse(arr,c,idx+1,b,dp));
+                return dp[idx][b][c]=max(-arr[idx]+recurse(arr,c+1,idx+1,!b,dp),
+                                         recurse(arr,c,idx+1,b,dp));
             }
         }
         else return dp[idx][b][c]=max(arr[idx]+recurse(arr,c,idx+1,!b,dp),recurse(arr,c,idx+1,b,dp));
