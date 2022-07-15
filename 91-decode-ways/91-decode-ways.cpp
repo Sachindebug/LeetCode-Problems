@@ -1,32 +1,20 @@
 class Solution {
 public:
     int numDecodings(string s) {
-        unordered_map<string,char> ump;
-        for(int i=0;i<26;i++)
+        int n = s.size() ;
+        vector<int> dp(n+1) ;
+        dp[n] = 1 ;
+        for(int i =n-1; i >= 0 ; i--) 
         {
-            string p=to_string(i+1);
-            ump[p]='A'+i;
-        }
-        vector<int> dp(s.length()+1,-1);
-        return recurse(s,ump,0,dp);
-        
-    }
-    int recurse(string &s,unordered_map<string,char> &ump,int idx,vector<int> &dp)
-    {
-        if(idx>=s.length()) return 1;
-        if(dp[idx]!=-1) return dp[idx];
-        int res=0;
-        string t="";
-        for(int i=idx;i<s.length();i++)
-        {
-            t+=s[i];
-            
-            if(ump.find(t)!=ump.end())
+            if(s[i]=='0') 
+                dp[i]=0;
+            else 
             {
-                
-                res+=recurse(s,ump,i+1,dp);
+                dp[i] = dp[i+1];
+                if(i < n-1 && (s[i]=='1' || s[i]=='2' && s[i+1]<'7')) 
+                    dp[i]+=dp[i+2];
             }
         }
-        return dp[idx]=res;
+        return s.empty()? 0 : dp[0];  
     }
 };
