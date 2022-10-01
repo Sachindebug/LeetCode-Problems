@@ -4,7 +4,7 @@ public:
         map<int,int> ump;
         int sum=0;
         int count=0;
-        ump[sum]++;
+        ump[0]++;
         int n=nums.size();
         for(int i=0;i<n;i++)
         {
