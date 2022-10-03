@@ -1,29 +1,43 @@
 class Solution {
 public:
-    bool collinear(int x1,int y1,int x2,int y2,int x3,int y3)
-    {
-        if((y3 - y2) * (x2 - x1) == (y2 - y1) * (x3 - x2)) return true;
-        return false;
-    }
     int maxPoints(vector<vector<int>>& points) {
-        int n=points.size();
-        int res=1;
-        for(int i=0;i<n;i++)
+        if(points.size()<=2) return points.size();
+        int res = 0;
+        for(int i = 0; i < points.size(); i++)
         {
-            for(int j=i+1;j<n;j++)
+            unordered_map<double, int> mp;
+            int duplicate = 0;
+            double slope = 0.0;
+            for(int j = 0; j < points.size(); j++)
             {
-                int x1=points[i][0];
-                int y1=points[i][1];
-                int x2=points[j][0];
-                int y2=points[j][1];
-                int count=0;
-                for(int k=0;k<n;k++)
-                {
-                    int x3=points[k][0];
-                    int y3=points[k][1];
-                    if(collinear(x1,y1,x2,y2,x3,y3)) count++;
+                int x1 = points[i][0];
+                int x2 = points[j][0];
+                int y1 = points[i][1];
+                int y2 = points[j][1];    
+                
+                int dy = y2 - y1;
+                int dx = x2 - x1;
+                if(dy == 0 && dx == 0){  
+                    duplicate++; 
+                    continue;
                 }
-                res=max(res,count);
+                
+                if(dx != 0)
+                    slope = dy*1.0/dx; 
+                else 
+                    slope = INT_MAX;
+                
+                mp[slope]++;
+            }
+
+            if(mp.size() == 0)
+                res = duplicate;
+            else
+            {
+                for(auto slope : mp){
+                    
+                    res = max(res, slope.second + duplicate);
+                }
             }
         }
         return res;
