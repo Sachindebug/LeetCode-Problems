@@ -1,11 +1,13 @@
 class Solution {
 public:
     bool canConstruct(string s, int k) {
-        unordered_map<int,int> ump;
-        for(auto x:s) ump[x]++;
         int n=s.length();
+        unordered_map<int,int> ump;
         if(n<k) return false;
         if(n==k) return true;
+        for(auto x:s) ump[x]++;
+        
+        
         int odd=0;
         int even=0;
         for(auto x:ump)
