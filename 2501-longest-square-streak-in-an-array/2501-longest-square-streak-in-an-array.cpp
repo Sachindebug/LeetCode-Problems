@@ -10,7 +10,7 @@ public:
             long long int x=nums[i];
             while(s.find(x)!=s.end())
             {
-                cout<<x<<" ";
+                
                 s.erase(s.find(x));
                 x*=x;
                 len++;
