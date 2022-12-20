@@ -10,9 +10,8 @@ public:
             count+=i.second/2;
             rem+=i.second%2;
         }
-        nums.resize(2);
-        nums.pop_back();
-        nums.pop_back();
+        nums.resize(0);
+        
 
         nums.push_back(count);
         nums.push_back(rem);
