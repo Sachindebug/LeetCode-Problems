@@ -24,20 +24,16 @@ class Solution
     //Function to sort the array using bubble sort algorithm.
     void bubbleSort(int arr[], int n)
     {
+        if(n==1) return;
         // Your code here 
-        for(int i=0;i<n;i++)
-        {
-            bool sp=false;
-            for(int j=0;j<n-i-1;j++)
+        for(int i=0;i<n-1;i++)
+        { 
+            if(arr[i+1]<arr[i])
             {
-                if(arr[j+1]<arr[j])
-                {
-                    swap(arr[j],arr[j+1]);
-                    sp=true;
-                }
+                swap(arr[i],arr[i+1]);
             }
-            if(!sp) break;
         }
+        bubbleSort(arr,n-1);
     }
 };
 
