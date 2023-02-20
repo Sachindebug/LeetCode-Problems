@@ -10,15 +10,30 @@
  */
 class Solution {
 public:
+    ListNode *reverse(ListNode * head){
+        ListNode *curr=head, *prev=NULL, *nx=NULL;
+        while(curr != NULL){
+            nx=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=nx;
+        }
+        return prev;
+    }
     ListNode* removeNodes(ListNode* head) {
-         if(head == NULL || head->next == NULL) {
-            return head;
+        ListNode *curr=reverse(head);
+        ListNode* p=curr;
+        while(curr!=NULL && curr->next != NULL){
+            if(curr->val > curr->next->val)
+            {
+                curr->next = curr->next->next;
+                
+            }
+                
+            else
+                curr=curr->next;
+                
         }
-        ListNode* nextN = removeNodes(head->next);
-        if(nextN->val > head->val) {
-            return nextN;
-        }
-        head->next = nextN;
-        return head;
+        return reverse(p);
     }
 };
