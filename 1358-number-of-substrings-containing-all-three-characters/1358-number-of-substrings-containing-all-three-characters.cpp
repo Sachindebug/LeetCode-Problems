@@ -1,22 +1,34 @@
 class Solution {
 public:
+    
     int numberOfSubstrings(string s) {
+         int a = 0, b = 0, c = 0 ,j = 0 , ans = 0;
         int n=s.length();
-        int end=n-1;
-        int l=0,r=0;
-        unordered_map<char,int> ump;
-        int count=0;
-        while(r<n)
+        for(int i = 0; i < n; i++)
         {
-            ump[s[r]]++;
-            while(ump['a'] && ump['b'] && ump['c'])
+            if(s[i] == 'a')
+                a++;
+            if(s[i] == 'b')
+                b++;
+            if(s[i] == 'c')
+                c++;
+
+            if(a > 0 && b > 0 && c > 0)
             {
-                count+=(1+end-r);
-                ump[s[l]]--;
-                l++;
+                while(a > 0 && b > 0 && c > 0)
+                {
+                    ans+= n - i;
+                    if(s[j] == 'a')
+                        a--;
+                    if(s[j] == 'b')
+                        b--;
+                    if(s[j] == 'c')
+                        c--;
+                    j++;
+                }
             }
-            r++;
         }
-        return count;
+        return ans;
+    
     }
 };
