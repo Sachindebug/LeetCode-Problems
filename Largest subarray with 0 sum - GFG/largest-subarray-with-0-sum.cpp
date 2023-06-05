@@ -10,32 +10,26 @@ using namespace std;
 
 class Solution{
     public:
-    int maxLen(vector<int> &arr, int n)
+    int maxLen(vector<int>&arr, int n)
     {   
         // Your code here
         map<int,int> ump;
-        int sum=0;
-        int res=0;
+        int ans=0,sum=0;
         for(int i=0;i<n;i++)
         {
             sum+=arr[i];
-            if(sum==0)
+            if(sum==0) ans=max(ans,i+1);
+            if(ump.find(sum)==ump.end())
             {
-                res=max(res,i+1);
+                ump[sum]=i;
             }
             else
             {
-                if(ump.find(sum)==ump.end())
-                {
-                    ump[sum]=i;
-                }
-                else
-                {
-                    res=max(res,i-ump[sum]);
-                }
+                int x = ump[sum];
+                ans=max(ans,i-x);
             }
         }
-        return res;
+        return ans;
     }
 };
 
