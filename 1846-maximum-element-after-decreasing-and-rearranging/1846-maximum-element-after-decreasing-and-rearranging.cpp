@@ -4,7 +4,7 @@ public:
         sort(arr.begin(),arr.end());
         int n = arr.size();
         int curr = 1;
-        for(int i=0;i<arr.size();i++)
+        for(int i=0;i<n;i++)
         {
             if(arr[i]<curr) continue;
             else if(arr[i]==curr)
