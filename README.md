@@ -32,4 +32,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
