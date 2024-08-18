@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0921-spiral-matrix-iii) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2832-find-the-longest-equal-subarray) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Design
 |  |
 | ------- |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Greedy
 |  |
 | ------- |
