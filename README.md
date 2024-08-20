@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0921-spiral-matrix-iii) |
+| [1240-stone-game-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1240-stone-game-ii) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
 | [0650-2-keys-keyboard](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1240-stone-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -133,4 +135,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1240-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
