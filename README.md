@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1325-path-with-maximum-probability](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2035-count-sub-islands](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2832-find-the-longest-equal-subarray) |
 ## Two Pointers
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0921-spiral-matrix-iii) |
+| [2035-count-sub-islands](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2035-count-sub-islands](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
 | ------- |
@@ -195,4 +198,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2035-count-sub-islands) |
+## Union Find
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
