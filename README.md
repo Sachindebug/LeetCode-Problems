@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0299-bulls-and-cows](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0299-bulls-and-cows) |
 | [0496-next-greater-element-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0870-magic-squares-in-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2832-find-the-longest-equal-subarray) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -189,10 +190,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
@@ -205,5 +208,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
