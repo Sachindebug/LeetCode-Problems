@@ -1,39 +1,23 @@
 class Solution {
 public:
-    vector<vector<int>> dp;
-    int coinChange(vector<int>& coins, int n, int amount)
+    int Memoization(vector<vector < int>> &dp, int ind, int amount, vector< int > &coins)
+        {
+            if (amount == 0)
+                return 1;
+            if (ind == coins.size())
+                return 0;
+            if (dp[ind][amount] != -1)
+                return dp[ind][amount];
+            if (coins[ind] > amount)
+                return dp[ind][amount] = Memoization(dp, ind + 1, amount, coins);
+            int pick = Memoization(dp, ind, amount - coins[ind], coins);
+            int notPick = Memoization(dp, ind + 1, amount, coins);
+            return dp[ind][amount] = pick + notPick;
+        }
+    int change(int amount, vector<int> &coins)
     {
-        if(n==0)
-            return 0;
-        if(amount == 0)
-        {
-            return 1;
-        }
-        if(dp[n][amount] != -1)
-        {
-            return dp[n][amount];
-        }
-        if(coins[n-1] > amount)
-        {
-            dp[n][amount] = coinChange(coins, n-1, amount);
-            return dp[n][amount];
-        }
-        dp[n][amount] = coinChange(coins, n, amount-coins[n-1]) + coinChange(coins, n-1, amount);
-        return dp[n][amount];
-    }
-    
-    int change(int amount, vector<int>& coins) {
         int n = coins.size();
-        if(amount == 0) {
-            return 1;
-        }
-        if(n==0)
-          return 0;
-        
-        dp.resize(n+2,vector<int>(amount+2,-1));
-        
-        dp[n][amount] = coinChange(coins, n, amount);
-        return dp[n][amount];
-        
+        vector<vector < int>> dp(n + 1, vector<int> (amount + 1, -1));
+        return Memoization(dp, 0, amount, coins);
     }
 };
