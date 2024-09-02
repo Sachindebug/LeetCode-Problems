@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0307-range-sum-query-mutable](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0307-range-sum-query-mutable) |
 | [0496-next-greater-element-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0264-ugly-number-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
+| [0518-coin-change-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0650-2-keys-keyboard](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1240-stone-game-ii) |
