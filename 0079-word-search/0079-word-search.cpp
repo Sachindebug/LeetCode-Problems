@@ -1,36 +1,48 @@
 class Solution {
 public:
-    bool DFS(vector<vector<char>>& board, string word, int i, int j, int n) {
-		//check if all the alphabets in the word is checked
-        if(n == word.size()) return true; 
-        
-		//check if i and j are out of bound or if the characters aren't equal
-        if(i < 0 || i >= board.size() || j < 0 || j >= board[i].size() || board[i][j] != word[n]) return false;
-        
-		//mark as visited 
-        board[i][j] = '0';
-        
-		//branch out in all 4 directions
-        bool status = DFS(board, word, i + 1, j, n + 1) ||  //down
-                        DFS(board, word, i, j + 1, n + 1) ||  //right
-                        DFS(board, word, i - 1, j, n + 1) ||  //up
-                        DFS(board, word, i, j - 1, n + 1);  //left
-        
-		//change the character back for other searches
-        board[i][j] = word[n];
-		
-        return status;
-    }
-    
     bool exist(vector<vector<char>>& board, string word) {
-        if(word == "") return false;
-        
-        for(int i = 0; i < board.size(); i++) 
-            for(int j = 0; j < board[i].size(); j++) 
-				//check if the characters are equal then call DFS
-                if(board[i][j] == word[0] && DFS(board, word, i, j, 0))
-                    return true;
-        
+        int n = board.size();
+        int m = board[0].size();
+        char start = word[0];
+        for(int i = 0;i<n;i++){
+            for(int j = 0;j<m;j++){
+                if(board[i][j]==start){
+                   if(dfs(board,0,i,j,word)) return true;
+                }
+            }
+        }
         return false;
+    }
+
+    bool dfs(vector<vector<char>> &board, int idx, int i, int j, string &word){
+        int n = board.size();
+        int m = board[0].size();
+        if(idx>=word.length()-1) return true;
+        bool res = false;
+        if(i<n-1 && board[i+1][j]==word[idx+1]){
+            char prev = board[i][j];
+            board[i][j]='.';
+            res = res | dfs(board,idx+1,i+1,j,word);
+            board[i][j] = prev;
+        }
+        if(j<m-1 && board[i][j+1]==word[idx+1]){
+            char prev = board[i][j];
+            board[i][j]='.';
+            res = res | dfs(board,idx+1,i,j+1,word);
+            board[i][j] = prev;
+        }
+        if(i>0 && board[i-1][j]==word[idx+1]){
+            char prev = board[i][j];
+            board[i][j]='.';
+            res = res | dfs(board,idx+1,i-1,j,word);
+            board[i][j] = prev;
+        }
+        if(j>0 && board[i][j-1]==word[idx+1]){
+            char prev = board[i][j];
+            board[i][j]='.';
+            res = res | dfs(board,idx+1,i,j-1,word);
+            board[i][j] = prev;
+        }
+        return res;
     }
 };
