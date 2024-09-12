@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1706-min-cost-to-connect-all-points) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2832-find-the-longest-equal-subarray) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0299-bulls-and-cows](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0299-bulls-and-cows) |
 | [0664-strange-printer](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0664-strange-printer) |
 | [1304-longest-happy-string](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1304-longest-happy-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -81,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0299-bulls-and-cows) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
@@ -211,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Binary Indexed Tree
 |  |
