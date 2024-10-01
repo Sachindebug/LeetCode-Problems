@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0299-bulls-and-cows) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
