@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1256-rank-transform-of-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0731-my-calendar-ii) |
 | [1240-stone-game-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
+| [1694-make-sum-divisible-by-p](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
