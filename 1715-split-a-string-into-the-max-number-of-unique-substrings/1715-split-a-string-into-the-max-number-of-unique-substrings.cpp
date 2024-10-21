@@ -1,13 +1,12 @@
 class Solution {
 public:
     int maxUniqueSplit(string s) {
-        unordered_set<string> seen;
+        set<string> seen;
         int maxCount = 0;
         backtrack(s, 0, seen, 0, maxCount);
         return maxCount;
     }
-    void backtrack(const string& s, int start, unordered_set<string>& seen,
-                   int count, int& maxCount) {
+    void backtrack(string& s, int start, set<string>& seen, int count, int& maxCount) {
         if (start == s.size()) {
             maxCount = max(maxCount, count);
             return;
