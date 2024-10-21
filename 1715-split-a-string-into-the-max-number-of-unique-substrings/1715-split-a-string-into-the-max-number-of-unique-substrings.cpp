@@ -8,7 +8,6 @@ public:
     }
     void backtrack(const string& s, int start, unordered_set<string>& seen,
                    int count, int& maxCount) {
-        // if (count + (s.size() - start) <= maxCount) return;
         if (start == s.size()) {
             maxCount = max(maxCount, count);
             return;
