@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3291-find-if-array-can-be-sorted](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2832-find-the-longest-equal-subarray](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2832-find-the-longest-equal-subarray) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |
