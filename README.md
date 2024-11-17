@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0870-magic-squares-in-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0906-walking-robot-simulation](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0669-trim-a-binary-search-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1484-linked-list-in-binary-tree) |
@@ -305,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0669-trim-a-binary-search-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1484-linked-list-in-binary-tree) |
@@ -386,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0386-lexicographical-numbers](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0669-trim-a-binary-search-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -407,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
