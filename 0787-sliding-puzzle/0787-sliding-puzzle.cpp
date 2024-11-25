@@ -16,10 +16,10 @@ public:
             if(t==target) return steps;
             int index=-1;
             for(int i=0;i<t.size();i++)
-            if(t[i]=='0'){
-                index=i;
-                break;
-            }
+                if(t[i]=='0'){
+                    index=i;
+                    break;
+                }
             //up
             if(index-3>=0){
                 string temp=t;
