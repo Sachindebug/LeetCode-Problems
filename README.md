@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3291-find-if-array-can-be-sorted](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
@@ -417,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1706-min-cost-to-connect-all-points](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [2803-modify-graph-edge-weights](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2803-modify-graph-edge-weights) |
 | [3189-find-champion-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -430,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1484-linked-list-in-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
 |  |
 | ------- |
