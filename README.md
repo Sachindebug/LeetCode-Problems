@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0946-smallest-range-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0946-smallest-range-ii) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0989-largest-component-size-by-common-factor) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0989-largest-component-size-by-common-factor) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1694-make-sum-divisible-by-p) |
@@ -302,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0988-flip-equivalent-binary-trees) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -332,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0988-flip-equivalent-binary-trees) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -417,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0988-flip-equivalent-binary-trees) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1484-linked-list-in-binary-tree) |
