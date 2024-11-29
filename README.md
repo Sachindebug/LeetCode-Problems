@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0307-range-sum-query-mutable](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0307-range-sum-query-mutable) |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0567-permutation-in-string](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0539-minimum-time-difference](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
