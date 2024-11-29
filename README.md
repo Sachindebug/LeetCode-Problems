@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0731-my-calendar-ii) |
