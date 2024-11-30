@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0874-backspace-string-compare](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1972-rotating-the-box) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0664-strange-printer](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0664-strange-printer) |
+| [0874-backspace-string-compare](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1304-longest-happy-string) |
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0874-backspace-string-compare](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -297,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0043-multiply-strings) |
+| [0874-backspace-string-compare](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [0906-walking-robot-simulation](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0921-spiral-matrix-iii) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
