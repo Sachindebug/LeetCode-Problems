@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0283-move-zeroes](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0307-range-sum-query-mutable](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0307-range-sum-query-mutable) |
+| [0384-shuffle-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0384-shuffle-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0155-min-stack](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0307-range-sum-query-mutable](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0307-range-sum-query-mutable) |
+| [0384-shuffle-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0384-shuffle-an-array) |
 | [0432-all-oone-data-structure](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0731-my-calendar-ii) |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0264-ugly-number-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
+| [0384-shuffle-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0384-shuffle-an-array) |
 | [0539-minimum-time-difference](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0670-maximum-swap) |
@@ -556,4 +559,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
