@@ -1,20 +1,19 @@
 class Solution {
 public:
-    int maxProfit(vector<int>& prices) {
-        int n = prices.size();
-        vector<vector<int>> dp(n,vector<int>(n+1,-1));
-        return recurse(prices,0,-1,dp);
+    int findMaxProfit(vector<int>&prices,bool f,int day,vector<vector<int>>&dp){
+        if(day>=prices.size())return 0;
+        if(dp[f][day]!=-1)return dp[f][day];
+        if(!f){
+            int x = findMaxProfit(prices,!f,day+1,dp) - prices[day];
+            int y = findMaxProfit(prices,f,day+1,dp);
+            return dp[f][day] = max(x,y);
+        }
+		int x  = prices[day] + findMaxProfit(prices,!f,day+2,dp);
+		int y  = findMaxProfit(prices,f,day+1,dp);
+        return dp[f][day] = max(x,y); 
     }
-    int recurse(vector<int>& prices, int currIdx, int prevIdx,vector<vector<int>> &dp){
-        if(currIdx>=prices.size()) return 0;
-        if(dp[currIdx][prevIdx+1]!=-1) return dp[currIdx][prevIdx+1];
-        int res = recurse(prices,currIdx+1,prevIdx,dp);
-        if(prevIdx==-1){
-            res = max(res,recurse(prices,currIdx+1,currIdx,dp));
-        }
-        else if(prices[currIdx]>prices[prevIdx]) {
-            res = max(res,prices[currIdx]-prices[prevIdx]+recurse(prices,currIdx+2,-1,dp));
-        }
-        return dp[currIdx][prevIdx+1] = res;
+    int maxProfit(vector<int>& prices) {
+        vector<vector<int>>dp(2,vector<int>(prices.size(),-1));
+        return findMaxProfit(prices,false,0,dp);
     }
 };
