@@ -365,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
+| [0052-n-queens-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0079-word-search) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
