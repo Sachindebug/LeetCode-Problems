@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0179-largest-number) |
+| [0239-sliding-window-maximum](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0307-range-sum-query-mutable](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -578,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0859-design-circular-deque) |
 ## Doubly-Linked List
 |  |
@@ -595,4 +599,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0384-shuffle-an-array) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
