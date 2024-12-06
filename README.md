@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1240-stone-game-ii) |
+| [1249-snapshot-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1249-snapshot-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1325-path-with-maximum-probability](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1249-snapshot-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1249-snapshot-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0989-largest-component-size-by-common-factor](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0989-largest-component-size-by-common-factor) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [1249-snapshot-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1249-snapshot-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -282,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0859-design-circular-deque) |
+| [1249-snapshot-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1249-snapshot-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
 |  |
