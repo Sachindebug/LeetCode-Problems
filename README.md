@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1325-path-with-maximum-probability](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1380-number-of-closed-islands](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1380-number-of-closed-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0921-spiral-matrix-iii) |
 | [0971-shortest-bridge](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0971-shortest-bridge) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1380-number-of-closed-islands](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1380-number-of-closed-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2035-count-sub-islands) |
@@ -531,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0988-flip-equivalent-binary-trees](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1380-number-of-closed-islands](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1380-number-of-closed-islands) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1484-linked-list-in-binary-tree) |
@@ -561,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0787-sliding-puzzle) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0971-shortest-bridge](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0971-shortest-bridge) |
+| [1380-number-of-closed-islands](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1380-number-of-closed-islands) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2035-count-sub-islands](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2035-count-sub-islands) |
@@ -573,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0989-largest-component-size-by-common-factor) |
+| [1380-number-of-closed-islands](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1380-number-of-closed-islands) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [2035-count-sub-islands](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 ## Minimum Spanning Tree
