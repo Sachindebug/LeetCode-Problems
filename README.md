@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0264-ugly-number-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [0299-bulls-and-cows](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0299-bulls-and-cows) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -397,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0079-word-search) |
 | [0772-construct-quad-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0772-construct-quad-tree) |
 | [0787-sliding-puzzle](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0787-sliding-puzzle) |
@@ -509,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0052-n-queens-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0079-word-search) |
