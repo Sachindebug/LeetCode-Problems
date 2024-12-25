@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3646-sum-of-good-subsequences](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3646-sum-of-good-subsequences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3646-sum-of-good-subsequences](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3646-sum-of-good-subsequences) |
 ## String
 |  |
 | ------- |
@@ -581,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3646-sum-of-good-subsequences](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3646-sum-of-good-subsequences) |
 ## Prefix Sum
 |  |
 | ------- |
