@@ -12,7 +12,7 @@ public:
                 int xOne = points[i][0], yOne = points[i][1];
                 int xTwo = points[j][0], yTwo = points[j][1];
 
-                if (xOne != xTwo && yOne != yTwo && xOne != yTwo && yOne != xTwo) {
+                if (xOne != xTwo && yOne != yTwo) {
                     if (pointSet.count({ xOne, yTwo }) && pointSet.count({ xTwo, yOne })) {
                         int curArea = (abs(xTwo-xOne) * abs(yTwo-yOne));
                         minArea = min(minArea, curArea);
