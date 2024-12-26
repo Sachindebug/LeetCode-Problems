@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0936-rle-iterator](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0936-rle-iterator) |
 | [0946-smallest-range-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0946-smallest-range-ii) |
 | [0971-shortest-bridge](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0971-shortest-bridge) |
+| [0976-minimum-area-rectangle](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0976-minimum-area-rectangle) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0989-largest-component-size-by-common-factor) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0883-car-fleet) |
 | [0946-smallest-range-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0946-smallest-range-ii) |
+| [0976-minimum-area-rectangle](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0976-minimum-area-rectangle) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1256-rank-transform-of-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -229,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0906-walking-robot-simulation](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0976-minimum-area-rectangle](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0976-minimum-area-rectangle) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0989-largest-component-size-by-common-factor) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -408,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0873-guess-the-word](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0873-guess-the-word) |
 | [0946-smallest-range-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0946-smallest-range-ii) |
+| [0976-minimum-area-rectangle](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0976-minimum-area-rectangle) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0989-largest-component-size-by-common-factor) |
 | [1240-stone-game-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1240-stone-game-ii) |
 | [2155-find-missing-observations](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2155-find-missing-observations) |
@@ -801,4 +805,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0936-rle-iterator](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0936-rle-iterator) |
+## Geometry
+|  |
+| ------- |
+| [0976-minimum-area-rectangle](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0976-minimum-area-rectangle) |
 <!---LeetCode Topics End-->
