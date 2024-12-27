@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0976-minimum-area-rectangle](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0976-minimum-area-rectangle) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0989-largest-component-size-by-common-factor) |
+| [1063-best-sightseeing-pair](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1240-stone-game-ii) |
@@ -584,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0650-2-keys-keyboard](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0664-strange-printer) |
+| [1063-best-sightseeing-pair](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1240-stone-game-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1240-stone-game-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
