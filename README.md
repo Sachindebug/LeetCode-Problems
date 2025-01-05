@@ -418,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0043-multiply-strings) |
+| [0233-number-of-digit-one](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
 | [0384-shuffle-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0384-shuffle-an-array) |
@@ -436,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Matrix
@@ -590,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0233-number-of-digit-one](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0435-non-overlapping-intervals](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
