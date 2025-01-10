@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0921-spiral-matrix-iii) |
 | [0936-rle-iterator](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0936-rle-iterator) |
 | [0946-smallest-range-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0946-smallest-range-ii) |
+| [0952-word-subsets](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0952-word-subsets) |
 | [0971-shortest-bridge](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0971-shortest-bridge) |
 | [0976-minimum-area-rectangle](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0976-minimum-area-rectangle) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0931-maximum-frequency-stack](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0931-maximum-frequency-stack) |
+| [0952-word-subsets](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0952-word-subsets) |
 | [0976-minimum-area-rectangle](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0976-minimum-area-rectangle) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0989-largest-component-size-by-common-factor) |
@@ -294,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0873-guess-the-word](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0873-guess-the-word) |
 | [0874-backspace-string-compare](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
