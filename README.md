@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
 |  |
@@ -738,6 +740,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1558-course-schedule-iv](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1558-course-schedule-iv) |
 | [2035-count-sub-islands](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
@@ -790,6 +793,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
@@ -803,6 +807,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [2035-count-sub-islands](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2035-count-sub-islands) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
