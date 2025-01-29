@@ -722,6 +722,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0669-trim-a-binary-search-tree) |
+| [0684-redundant-connection](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -747,6 +748,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
@@ -774,6 +776,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -800,6 +803,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0989-largest-component-size-by-common-factor) |
 | [1380-number-of-closed-islands](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1380-number-of-closed-islands) |
