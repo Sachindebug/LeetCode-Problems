@@ -1,21 +1,26 @@
+class Compare{
+public:
+    bool operator()(pair<int,string> &a, pair<int,string> &b){
+        if(a.first<b.first) return true;
+        else if(a.first==b.first) return a.second>b.second;
+        return false;
+    }
+};
 class Solution {
 public:
     vector<string> topKFrequent(vector<string>& words, int k) {
-        unordered_map<string, int> counts;
-        for(auto i : words) ++counts[i];
-        
-        vector<vector<string>> buckets(words.size() + 1);
-        for(auto & k : counts) 
-            buckets[k.second].push_back(k.first);
-        reverse(begin(buckets), end(buckets));
-        
+        map<string,int> wordCount;
+        for(auto word: words){
+            wordCount[word]++;
+        }
+        priority_queue<pair<int,string>,vector<pair<int,string>>,Compare> pq;
+        for(auto x: wordCount){
+            pq.push({x.second,x.first});
+        }
         vector<string> res;
-        for(auto & bucket: buckets) {
-            sort(bucket.begin(),bucket.end());
-            for(auto i : bucket) {
-                res.push_back(i);
-                if(res.size() == k) return res;
-            }
+        while(k-- && !pq.empty()){
+            res.push_back(pq.top().second);
+            pq.pop();
         }
         return res;
     }
