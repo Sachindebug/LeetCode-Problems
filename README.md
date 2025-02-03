@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3291-find-if-array-can-be-sorted](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
