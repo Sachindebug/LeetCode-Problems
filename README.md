@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0976-minimum-area-rectangle](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0976-minimum-area-rectangle) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0989-largest-component-size-by-common-factor) |
+| [1002-maximum-width-ramp](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0874-backspace-string-compare](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
+| [1002-maximum-width-ramp](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1002-maximum-width-ramp) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -399,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-car-fleet](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0883-car-fleet) |
 | [0931-maximum-frequency-stack](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0931-maximum-frequency-stack) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1002-maximum-width-ramp) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -432,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0883-car-fleet) |
+| [1002-maximum-width-ramp](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1002-maximum-width-ramp) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
