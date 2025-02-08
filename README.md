@@ -287,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2434-design-a-number-container-system](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2434-design-a-number-container-system) |
 | [2479-meeting-rooms-iii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -429,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1249-snapshot-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1249-snapshot-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2139-detect-squares](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2139-detect-squares) |
+| [2434-design-a-number-container-system](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2434-design-a-number-container-system) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -594,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2434-design-a-number-container-system](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2434-design-a-number-container-system) |
 | [2479-meeting-rooms-iii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -898,6 +901,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0731-my-calendar-ii) |
 | [0931-maximum-frequency-stack](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0931-maximum-frequency-stack) |
+| [2434-design-a-number-container-system](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2868-continuous-subarrays) |
 ## Queue
 |  |
