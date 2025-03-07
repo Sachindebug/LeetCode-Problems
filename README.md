@@ -537,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2155-find-missing-observations](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -933,6 +934,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0989-largest-component-size-by-common-factor](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0989-largest-component-size-by-common-factor) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
 |  |
