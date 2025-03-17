@@ -2,7 +2,7 @@ class Solution {
 public:
     bool divideArray(vector<int>& nums) {
         int n=nums.size();
-        unordered_map<int,int> ump;
+        map<int,int> ump;
         for(auto x:nums){
             ump[x]++;
         }
