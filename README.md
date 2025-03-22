@@ -773,6 +773,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2755-extra-characters-in-a-string](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3646-sum-of-good-subsequences](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3646-sum-of-good-subsequences) |
+| [3801-count-beautiful-numbers](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3801-count-beautiful-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
