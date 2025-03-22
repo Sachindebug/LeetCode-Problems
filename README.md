@@ -866,6 +866,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
@@ -883,6 +884,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2793-count-the-number-of-complete-components) |
 | [2803-modify-graph-edge-weights](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2803-modify-graph-edge-weights) |
 | [3189-find-champion-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3189-find-champion-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -925,6 +927,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
@@ -941,6 +944,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1706-min-cost-to-connect-all-points](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [2035-count-sub-islands](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Minimum Spanning Tree
 |  |
