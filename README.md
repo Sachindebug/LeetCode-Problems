@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3643-zero-array-transformation-ii) |
 | [3646-sum-of-good-subsequences](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3646-sum-of-good-subsequences) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Two Pointers
@@ -375,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3646-sum-of-good-subsequences](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3646-sum-of-good-subsequences) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
 | ------- |
