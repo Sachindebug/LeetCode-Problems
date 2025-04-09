@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3643-zero-array-transformation-ii) |
 | [3646-sum-of-good-subsequences](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3646-sum-of-good-subsequences) |
@@ -375,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3455-minimum-length-of-string-after-operations](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3646-sum-of-good-subsequences](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3646-sum-of-good-subsequences) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
