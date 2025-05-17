@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
+| [0075-sort-colors](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0567-permutation-in-string) |
@@ -272,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0368-largest-divisible-subset) |
