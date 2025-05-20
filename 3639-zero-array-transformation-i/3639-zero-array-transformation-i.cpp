@@ -13,7 +13,6 @@ public:
         for(int i = 0 ;i<nums.size();i++){
             sum+=freq[i];
             nums[i]+=sum;
-            cout<<nums[i]<<" ";
             if(nums[i] > 0) return false;
         }
         return true;
