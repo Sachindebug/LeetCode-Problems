@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-find-words-containing-character](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3321-type-of-triangle) |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2888-minimum-index-of-a-valid-split](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3321-type-of-triangle) |
@@ -619,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3195-separate-black-and-white-balls](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3195-separate-black-and-white-balls) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Math
