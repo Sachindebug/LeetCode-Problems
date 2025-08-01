@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0137-single-number-ii) |
@@ -892,6 +893,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
