@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1483-rank-teams-by-votes](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1483-rank-teams-by-votes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1524-string-matching-in-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1483-rank-teams-by-votes](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1483-rank-teams-by-votes) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1962-single-threaded-cpu](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1962-single-threaded-cpu) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
