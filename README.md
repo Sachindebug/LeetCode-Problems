@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-reveal-cards-in-increasing-order](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0989-largest-component-size-by-common-factor) |
 | [1002-maximum-width-ramp](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1002-maximum-width-ramp) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1063-best-sightseeing-pair) |
@@ -977,6 +978,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0476-number-complement) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1940-maximum-xor-for-each-query) |
