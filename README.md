@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3531-count-covered-buildings](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3531-count-covered-buildings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -806,6 +807,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -950,6 +952,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2755-extra-characters-in-a-string](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3646-sum-of-good-subsequences](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3646-sum-of-good-subsequences) |
 | [3801-count-beautiful-numbers](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3801-count-beautiful-numbers) |
 ## Prefix Sum
@@ -1060,6 +1063,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2793-count-the-number-of-complete-components](https://github.com/Sachindebug/LeetCode-Problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Graph
 |  |
 | ------- |
