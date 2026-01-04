@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1364-tuple-with-same-product](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1380-number-of-closed-islands](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1380-number-of-closed-islands) |
+| [1390-four-divisors](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -695,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0976-minimum-area-rectangle](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0976-minimum-area-rectangle) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0989-largest-component-size-by-common-factor) |
 | [1240-stone-game-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1240-stone-game-ii) |
+| [1390-four-divisors](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
