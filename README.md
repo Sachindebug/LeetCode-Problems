@@ -384,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0870-magic-squares-in-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -810,6 +811,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0772-construct-quad-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0772-construct-quad-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -879,6 +881,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1065,6 +1068,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0971-shortest-bridge](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0971-shortest-bridge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -1133,6 +1137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0971-shortest-bridge](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0971-shortest-bridge) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
