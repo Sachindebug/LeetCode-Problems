@@ -466,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0038-count-and-say](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0179-largest-number) |
@@ -684,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0043-multiply-strings](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
@@ -776,6 +778,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [0906-walking-robot-simulation](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0921-spiral-matrix-iii) |
@@ -1021,6 +1024,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0476-number-complement) |
