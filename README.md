@@ -1031,6 +1031,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0476-number-complement) |
 | [0868-binary-gap](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0868-binary-gap) |
+| [1009-complement-of-base-10-integer](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
