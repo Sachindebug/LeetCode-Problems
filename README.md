@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0075-sort-colors) |
@@ -700,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0231-power-of-two) |
@@ -761,6 +763,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0079-word-search) |
 | [0772-construct-quad-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0772-construct-quad-tree) |
