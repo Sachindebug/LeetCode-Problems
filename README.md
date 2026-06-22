@@ -415,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0989-largest-component-size-by-common-factor](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0989-largest-component-size-by-common-factor) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
+| [1189-maximum-number-of-balloons](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -507,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1160-letter-tile-possibilities](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
+| [1189-maximum-number-of-balloons](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1304-longest-happy-string](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1304-longest-happy-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -576,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0936-rle-iterator](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0936-rle-iterator) |
 | [1160-letter-tile-possibilities](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
+| [1189-maximum-number-of-balloons](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
