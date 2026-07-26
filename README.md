@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3531-count-covered-buildings](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3531-count-covered-buildings) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Hash Table
 |  |
@@ -714,6 +716,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
@@ -773,6 +776,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Recursion
 |  |
