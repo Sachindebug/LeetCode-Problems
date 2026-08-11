@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0283-move-zeroes) |
@@ -332,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
@@ -397,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [0299-bulls-and-cows](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0299-bulls-and-cows) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -580,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0299-bulls-and-cows) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0692-top-k-frequent-words) |
@@ -1352,6 +1356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0772-construct-quad-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0772-construct-quad-tree) |
 ## Randomized
 |  |
@@ -1402,4 +1407,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1140-stone-game-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
