@@ -725,6 +725,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0066-plus-one) |
