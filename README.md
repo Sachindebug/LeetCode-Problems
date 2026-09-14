@@ -756,6 +756,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
+| [0836-rectangle-overlap](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
 | [0870-magic-squares-in-grid](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0873-guess-the-word](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0873-guess-the-word) |
 | [0946-smallest-range-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0946-smallest-range-ii) |
@@ -1394,6 +1395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
 | [0976-minimum-area-rectangle](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0976-minimum-area-rectangle) |
 ## Topological Sort
 |  |
