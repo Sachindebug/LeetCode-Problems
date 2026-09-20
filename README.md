@@ -585,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3447-clear-digits](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3838-weighted-word-mapping](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
@@ -880,6 +881,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3447-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 ## Tree
