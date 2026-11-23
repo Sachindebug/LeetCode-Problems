@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1364-tuple-with-same-product](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1380-number-of-closed-islands](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1380-number-of-closed-islands) |
 | [1390-four-divisors](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1390-four-divisors) |
@@ -678,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-maximum-frequency-stack](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0931-maximum-frequency-stack) |
 | [0936-rle-iterator](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0936-rle-iterator) |
 | [1249-snapshot-array](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1249-snapshot-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -780,6 +782,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1240-stone-game-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1240-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1448-maximum-69-number) |
@@ -1001,6 +1004,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 ## Backtracking
 |  |
@@ -1097,6 +1101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sachindebug/LeetCode-Problems/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1140-stone-game-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1240-stone-game-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1240-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sachindebug/LeetCode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
