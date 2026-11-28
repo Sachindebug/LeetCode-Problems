@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3838-weighted-word-mapping](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -410,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -750,6 +752,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Math
 |  |
 | ------- |
@@ -977,6 +980,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Sachindebug/LeetCode-Problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Binary Tree
 |  |
 | ------- |
